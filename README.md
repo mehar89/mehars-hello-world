@@ -1,2 +1,6 @@
 # mehars-hello-world
-just another repository
+
+
+Hi there,
+
+i like Angularjs that's i am creating this.
